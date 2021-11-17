@@ -11,7 +11,7 @@ https://github.com/Param302/Text-Editor.git
 ```
 ## Contribution
 Please feel free to contribute!
-Things which are left:
+\nThings which are left:
 - File Tab.
 - Edit Tab.
 - Working of Text clear button in Font tab.
