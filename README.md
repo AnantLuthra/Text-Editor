@@ -11,7 +11,7 @@ https://github.com/Param302/Text-Editor.git
 ```
 ## Contribution
 Please feel free to contribute!
-Things which left:
+Things which are left:
 - File Tab.
 - Edit Tab.
 - Working of Text clear button in Font tab.
@@ -20,3 +20,4 @@ Things which left:
 - Indentations left in Paragraph tab.
 - Theme and Style of whole App.
 - Hover color properties.
+- Implementation of text to pdf (the whole formatted text will convert to pdf).
