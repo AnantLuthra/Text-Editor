@@ -11,3 +11,12 @@ https://github.com/Param302/Text-Editor.git
 ```
 ## Contribution
 Please feel free to contribute!
+Things which left:
+- File Tab.
+- Edit Tab.
+- Working of Text clear button in Font tab.
+- Color chooser in formatting font.
+- Paragraph Tab.
+- Indentations left in Paragraph tab.
+- Theme and Style of whole App.
+- Hover color properties.
