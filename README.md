@@ -9,3 +9,5 @@ Python 3.9.6 or higher
 ```
 https://github.com/Param302/Text-Editor.git
 ```
+## Contribution
+Please feel free to contribute!
